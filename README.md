@@ -1,0 +1,1 @@
+Smart contract to distribute ETH and ERC20 tokens.
